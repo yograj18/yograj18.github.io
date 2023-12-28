@@ -1,0 +1,17 @@
+1  ---
+2  name: Improvements
+3  about: Suggesting improvements in already existing file.
+4  title: ''
+5  labels: LGMSOC21
+6  assignees: ''
+7
+8  ---
+9
+10  **Project name**
+11  (Add project name over here)
+12
+13  **Project link**
+14  (Provide project link over here)
+15
+16  **Improvements suggested**
+17  (Write the improvements you are suggesting over here)
